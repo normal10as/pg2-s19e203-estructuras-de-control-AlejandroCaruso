@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>_3._10_MultiplosCinco</RootNamespace>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <VBRuntime>Default</VBRuntime>
+  </PropertyGroup>
+
+</Project>
